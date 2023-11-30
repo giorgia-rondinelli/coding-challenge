@@ -1,0 +1,66 @@
+body{
+    background-image:url(background.jpg) ;
+    background-size: cover;
+    background-repeat:no-repeat;
+    margin:auto;
+    width:1000px;
+}
+img{
+    width: 30%;
+}
+
+header{
+    text-align: center;
+}
+header>div{
+    color:#08dc04;
+    text-align: center;
+    font-size: 40px;
+
+}
+nav{
+    background-color: #08dc04;
+    padding: 10px;
+    text-align:center;
+    
+}
+section>div{
+    color: white;
+}
+section>span{
+    color: white;
+    font-size: 25px;
+}
+#gino{
+    background-color:orange;
+    height: 20px;
+    width: 30%;
+    border-radius: 5%;
+}
+#mike{
+    background-color:#08dc04;
+    height: 20px;
+    width: 50%;
+    border-radius: 5%;
+
+}
+#fede{
+    background-color:indianred;
+    height: 20px;
+    width: 15%;
+    border-radius: 5%;
+
+}
+section{
+    padding: 10px;
+}
+body>div{
+    background-color: rgba(0, 0, 0, 0.418);
+    padding: 59px;
+    border-radius: 3%;
+    margin: 50px 50px;
+
+}
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
